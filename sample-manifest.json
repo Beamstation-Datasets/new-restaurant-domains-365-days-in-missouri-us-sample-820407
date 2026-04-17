@@ -1,0 +1,12 @@
+{
+  "export_job_id": "51ff3a96-48d9-4146-8516-6299295dc13e",
+  "id_short": 820407,
+  "published_at": "2026-04-17T07:05:54Z",
+  "repo_name": "new-restaurant-domains-365-days-in-missouri-us-sample-820407",
+  "sample_asset_name": "beamstation_820407_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/820407/beamstation_820407_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_records": 32,
+  "sample_sha256": "002f4942cb446361be957e3c940eabeb6378f9e3952483ed332b80cb54aca1ee",
+  "sample_size_bytes": 124784,
+  "total_records": 324
+}
